@@ -82,6 +82,7 @@ const EventsPage = () => {
       </header>
 
       <div className="mb-6">
+          <h1></h1>
         <h2 className="font-semibold text-slate-700 mb-2">Raw JSON Debug</h2>
         <pre className="text-sm bg-slate-50 border p-3 font-mono text-slate-700 overflow-x-auto">
           {JSON.stringify(events, null, 2)}
