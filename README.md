@@ -44,8 +44,8 @@ Optimized for desktop and mobile screens.
 Clone this repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/your-frontend-repo.git
-cd your-frontend-repo
+git clone https://github.com/Undriling/action-repo.git
+cd action-techstax
 npm install
 ```
 
