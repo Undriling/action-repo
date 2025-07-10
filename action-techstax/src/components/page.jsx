@@ -70,6 +70,7 @@ const EventsPage = () => {
             <>
               <span className="w-2 h-2 rounded-full bg-red-500" />
               <span className="text-xs text-red-600">Offline</span>
+              <h1></h1>
             </>
           )}
           {lastUpdate && (
